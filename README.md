@@ -1,7 +1,7 @@
 # Projeto com README
 Um projeto de teste com um arquivo README🔥🚀
 
-[<img src="testereadme.gif" alt="tela inicial do perfil github">]
+<img src="testereadme.gif" alt="tela inicial do perfil github">
 
 ## Tecnologias Utilizadas
 - HTML
